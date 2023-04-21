@@ -70,6 +70,26 @@ li{
     font-size: 18px;
 }
 
+/* ----------    SECTION 1.5 CODE    -----------*/
+
+.index-title{
+    text-align: center;
+    margin:30px;
+}
+.icons{
+    max-width: 150px;
+    min-width: 150px;
+    max-height: 150px;
+    min-height: 150px;
+}
+
+.container-index{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
 /* ----------    SECTION 2 CODE    -----------*/
 
 .section2{
@@ -95,7 +115,7 @@ li{
     max-width: 600px;
 }
 
-.icons{
+.images{
     max-width: 800px;
 }
 
